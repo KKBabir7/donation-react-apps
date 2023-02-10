@@ -13,7 +13,7 @@
    
    # Responsive
    
-# live server https://github.com/kkbabir7/donation-react-apps/
+# live server https://kkbabir7.github.io/donation-react-apps/
 #output
 --This daynamic homepage u can change content from Datahandeler forlder with all page same too 
 
